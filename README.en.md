@@ -24,7 +24,7 @@ Pipeline: `faster-whisper` (transcription) → `wav2vec2` (word-level alignment)
 ## Setup (one-time)
 
 ```bash
-git clone https://github.com/<your-username>/transcribe.git
+git clone https://github.com/KAI777THEBEGINNER/transcribe.git
 cd transcribe
 
 # 1. Copy env template, fill in your HF token + cache paths

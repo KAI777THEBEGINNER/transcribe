@@ -24,7 +24,7 @@
 ## 一次性安装
 
 ```bash
-git clone https://github.com/<your-username>/transcribe.git
+git clone https://github.com/KAI777THEBEGINNER/transcribe.git
 cd transcribe
 
 # 1. 复制环境模板，填入你的 HF token + 缓存路径
